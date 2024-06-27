@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Sree Amulya vajra Kurapati</h1>
+    <h1>Amulya vajra Kurapati</h1>
     
     <h2>VIT-AP</h2>
     <h2>Reg no : 22BCE8738</h2>
