@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        
+        <input type="button" onclick="sd()" value="show date"><br>
+        <p id="p1"></p>
+       
+        <input type="button" onclick="st()" value="show time"><br>
+       <p id="p2"></p> 
+
+</form>
+<script>
+    function st(){
+        let now=new Date();
+        document.getElementById("p2").innerHTML=now;
+    }
+     
+    function sd(){
+        let date = new Date();
+        let formattedDate = date.toLocaleString("en-GB", {
+    day: "2-digit",
+    month: "long",
+    year: "numeric"
+});
+
+console.log(formattedDate); 
+document.getElementById("p1").innerHTML=formattedDate;
+    }
+    
+</script>
+</body>
+</html>
