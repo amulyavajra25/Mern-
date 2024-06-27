@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Amulya vajra Kurapati</h1>
+    <h1>Kurapati Amulya Vajra</h1>
     
     <h2>VIT-AP</h2>
     <h2>Reg no : 22BCE8738</h2>
@@ -52,11 +52,11 @@
         </tr>
         <tr>
             <td>Task 6</td>
-            <td><a href="file:///C:/Users/USER/Desktop/BOOT%20STRAP%20TASKS/task6bs.html>Task 6 link</a></td>
+            <td><a href="file:///C:/Users/USER/Desktop/BOOT%20STRAP%20TASKS/task6bs.html">Task 6 link</a></td>
         </tr>
         
     </table>
-    <h3>Javascript Tasks</h3>
+    <h3>Java Script Tasks</h3>
 
     <table>
         <tr>
@@ -95,7 +95,8 @@
             <td>Task 8</td>
             <td><a href="file:///C:/Users/USER/Desktop/JAVA%20SCRIPTS%20TASKS/task8js.html">Task 8 link</a></td>
         </tr>
-        
     </table>
+
 </body>
 </html>
+            
